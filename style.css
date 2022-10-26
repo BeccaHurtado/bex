@@ -1,3 +1,27 @@
-body {
+.brand {
+    /* font-family: 'Poppins', sans-serif;  */
+    font-family: 'Caveat', cursive;
+    font-size: 40px;
+}
+
+.navbar-menu {
     font-family: 'Poppins', sans-serif; 
+}
+
+.navbar{
+    background-color: #e9edc9;
+}
+
+/* .brand, navbar-item{
+    color: #3a5a40;
+} */
+
+.box {
+    background-image: url('./assets/img/dark-background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.title {
+    font-size: 80px;
 }
