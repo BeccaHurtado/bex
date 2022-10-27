@@ -29,13 +29,17 @@
     /* border-bottom: 10px double #ACC8A6; */
 }
 
+.becca {
+    color: #dfbfa6;
+}
+
 .summary {
     color: #ACC8A6;
     font-size: 20px;
 }
 
 .description {
-    color: #e9edc9;
+    color: #9ca68a;
 }
 
 .dot {
@@ -44,7 +48,7 @@
 }
 
 ion-icon {
-    color: #ACC8A6;
-    font-size: 20px;
+    color: #dfbfa6;
+    font-size: 30px;
     padding: 10px;
   }
