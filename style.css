@@ -22,6 +22,29 @@
     background-size: cover;
 }
 
-.title {
-    font-size: 80px;
+.name {
+    font-size: 120px;
+    color: #e9edc9;
+    font-family: 'Caveat', cursive;
+    /* border-bottom: 10px double #ACC8A6; */
 }
+
+.summary {
+    color: #ACC8A6;
+    font-size: 20px;
+}
+
+.description {
+    color: #e9edc9;
+}
+
+.dot {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+ion-icon {
+    color: #ACC8A6;
+    font-size: 20px;
+    padding: 10px;
+  }
